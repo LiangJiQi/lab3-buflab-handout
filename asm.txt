@@ -1,0 +1,11 @@
+
+asm.o：     文件格式 elf32-i386
+
+
+Disassembly of section .text:
+
+00000000 <.text>:
+   0:	8d 6c 24 28          	lea    0x28(%esp),%ebp
+   4:	b8 89 31 4d 2f       	mov    $0x2f4d3189,%eax
+   9:	68 4a 8e 04 08       	push   $0x8048e4a
+   e:	c3                   	ret    
